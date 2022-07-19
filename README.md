@@ -3,6 +3,6 @@
 # Dataset
 RadioML2016.10a
 # Ambiente
-python 3.7
-tensorflow-gpu 2.4.0
-cuda 11.0
+* python 3.7
+* tensorflow-gpu 2.4.0
+* cuda 11.0
